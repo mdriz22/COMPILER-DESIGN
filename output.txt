@@ -1,0 +1,8 @@
+#include<stdio.h>
+main()
+{
+floatpi=3.14,r,a;
+a=3.14*r*r;
+printf("a=%f",a);
+return0;
+}
